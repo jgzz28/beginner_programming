@@ -1,2 +1,2 @@
-# beginner_programming
-My programming courses from my intro to C++ class at community college.
+# Beginner Programming
+My programming courses from my intro to C++ class at community college. It's kind of fun to look back and see how far I've come and I want a place to have it up online, even if it's nothing like what I do now. Measuring how much I've leveled up is really great haha. So, yeah. Sorry if these programs literally are baby codes. I started programming in 2013 but I was able to only find my baby code from 2014 for this class since I had to retake it.
